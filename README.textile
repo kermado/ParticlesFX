@@ -1,7 +1,9 @@
 h1. ParticlesFX
 
 h2. Introduction
+
 A simple particle collision simulation written in Java using JavaFX 2.  Particles can collide with the walls of the window and with each other.  To make the physics simple, collisions are perfectly elastic and the particles have equal mass.
 
 h2. Credits
+
 Uses "JFXGen":https://github.com/carldea/JFXGen by Carl Dea.
